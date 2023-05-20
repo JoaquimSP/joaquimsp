@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/joaquim-pinto-419369160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+##
+
 <div>
 <a href="https://github.com/joaquimsp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimsp&layout=compact&langs_count=7&theme=dracula"/>
