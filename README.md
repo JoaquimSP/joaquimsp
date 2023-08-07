@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Joaquim Pinto and here you cand find my developed projects.
+
+- 👨‍💻 Junior Front End Developer
 - 🔭 I’m currently working on HTML5, CSS3, JavaScript, Git and Linux.
 - 🌱 I’m currently learning Java, SQL and PHP.
 - 💻 I’m looking for my first Job as a Web Developer.
